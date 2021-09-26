@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Từ nay bạn là của mình rồi á :3 Mình sẽ chịu trách nhiệm với bạn nhaaa. Nếu mà nhớ mình thì nhắn tin cho mình nhé <3 Mình luôn ở đâyyyy ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100038845686262' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100038845686262' 
 }
