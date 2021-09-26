@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: 'Ngồi lại đây mình nói nhỏ với Cún một xíu nèeee',
     btnIntro: 'Khoảng thời gian vừa qua Lu đã rất vui vì luôn có Cún ở bên cạnh 😘😘',
     title: 'Nhưng mà Lu hơi ích kỉ một xíu, Lu chỉ muốn Cún là của riêng Lu thôi 🥺',
-    desc: 'Nên là... Cún làm bạn gái Lu nhéeee ',
+    desc: 'Nên là... Cún làm bạn gái Lu nhé ?? ',
     btnYes: 'Được nè <3',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
