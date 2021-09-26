@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "Điều đặc biệt to to",
     introTitle: 'Cún àaaaaaa',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Ngồi lại đây mình nói nhỏ với bạn một xíu nèeeee`,
     btnIntro: 'Khoảng thời gian vừa qua Lu đã rất vui vì luôn có Cún ở bên cạnh 😘😘',
     title: 'Nhưng mà Lu hơi ích kỉ một xíu, Lu chỉ muốn Cún là của riêng Lu thôi 🥺',
     desc: 'Nên là... Cún làm bạn gái Lu nhéeee ',
