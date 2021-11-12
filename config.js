@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: ' Halo em ',
     introDesc: 'Ngồi lại đây anh nói nhỏ với bé một xíu nèeee',
     btnIntro: 'Thời gian vừa qua anh đã rất vui vì luôn có em ở bên cạnh lắng nghe những nỗi buồn và không bỏ rơi một chiếc đàn ông bánh bèo hay suy nghĩ tiêu cực như anh 🥺 ',
-    title: 'Nhưng mà anh hơi ích kỉ một xíu, anh chỉ biết xàm xí với em cả ngày thôi 👉👈',
+    title: 'Nhưng mà anh hơi ích kỉ một xíu, anh cứ muốn em ở đây chơi với anh cả ngày thôi 👉👈',
     desc: ' Có thể là anh hơi nhạt nhẽo một xíu nhưng đừng bỏ rơi anh nhaaaaaa 🥺 ',
     btnYes: 'Được nè <3',
     btnNo:  'Ơ kệ anh :<',
