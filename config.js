@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo:  'Ơ kệ anh :<',
     question: 'Trên thế giới hơn 7 tỉ người, vô tình va phải anh chắc là cũng mệt lắm. Nhưng mà em có biết lí do số phận cho anh gặp được em honggg ',
     btnReply: 'Vì đơn giản em là phép màu nho nhỏ cuộc sống ban tặng cho cuộc sống u tối của anh 🥺 ',
-    reply: 'Đúng đúng, anh đẹp giai tốt bụng zlllllll ',
+    reply: 'Hong biết nữa, chắc là tại em xui xẻo hoyyyy 🥺',
     mess: 'Anh biết mà 🥰. Cẻm ơn em nhiều nhiều 😘😘',
     messDesc: 'Từ nay nụ cười của bạn là ánh nắng của riêng mình rồi á :3  Nếu mà nhớ mình thì nhắn tin cho mình nha <3 Mình luôn ở đâyyyy ',
     btnAccept: 'Okiiiii lun <3',
