@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Vì đơn giản em là phép màu nho nhỏ cuộc sống ban tặng cho cuộc sống u tối của anh 🥺 ',
     reply: 'Hong biết nữa, chắc là tại em xui xẻo hoyyyy 🥺',
     mess: 'Anh biết mà 🥰. Cẻm ơn em nhiều nhiều 😘😘',
-    messDesc: 'Từ nay nụ cười của bạn là ánh nắng của riêng mình rồi á :3  Nếu mà nhớ mình thì nhắn tin cho mình nha <3 Mình luôn ở đâyyyy ',
+    messDesc: 'Từ nay nụ cười của bạn là ánh nắng của riêng mình rồi á. Nếu mà nhớ mình thì cứ nhắn tin cho mình nha <3 Hong phải ngại đâu :> ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100038845686262' 
 }
