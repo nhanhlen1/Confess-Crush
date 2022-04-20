@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Hong biết nữa, chắc tại xui =))) ',
     mess: 'Aishhhh. Cảm ơn bạn nhiều nhiều nhiều nhó ',
     messDesc: 'Đang chán zl nè hỏi thăm nhau 1 câu đê 😒',
-    btnAccept: 'Hmmmmmm',
+    btnAccept: 'Hmmmmmmm',
     messLink: 'https://www.facebook.com/messages/t/100038845686262' 
 }
